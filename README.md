@@ -7,7 +7,7 @@
 - 🔍 Specializing in information.
 - 🧠 Interested in artificial intelligence and machine learning.
 - 🏃‍♂️ Outside of tech, I stay active by weightlifting and tennis.
-- 🇺🇸🇰🇷 Multilingual speaker fluent in English and Korean interested in global tech developments.
+- 🇺🇸🇰🇷 Multilingual speaker, fluent in English and Korean interested in global tech developments.
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
@@ -19,4 +19,4 @@
 
 ### Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/brian-kam-297144277)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([Your-Instagram-UR](https://www.instagram.com/dhkam_1102_/)L)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dhkam_1102_/)
