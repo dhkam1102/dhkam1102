@@ -7,7 +7,7 @@
 - 🔍 Specializing in information.
 - 🧠 Interested in artificial intelligence and machine learning.
 - 🏋️‍♂️ Outside of tech, I stay active by weightlifting and tennis.
-- 🇺🇸🇰🇷 Multilingual speaker, fluent in English and Korean interested in global tech developments.
+- 🇺🇸🇰🇷🇯🇵 Multilingual speaker, fluent in English and Korean, with some proficiency in Japanese, interested in global tech developments
 
 ### GitHub Stats
 ![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhkam1102&show_icons=true&theme=radical)
