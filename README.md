@@ -31,10 +31,10 @@
 
 ### Connect With Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/dhkam1102">
+  <a href="www.linkedin.com/in/brian-kam-297144277">
     <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/dhkam1102">
+  <a href="https://www.instagram.com/dhkam_1102_/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
   </a>
 </p>
