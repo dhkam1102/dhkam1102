@@ -89,6 +89,9 @@
   </tr>
 </table>
 
+### Working on:
+- Learning Go
+- Practicing LeetCode
 
 ### Connect With Me:
 <p align="center">
