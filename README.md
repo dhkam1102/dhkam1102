@@ -90,7 +90,7 @@
 </table>
 
 ### Working on:
-- Learning Go
+- [Learning Go](https://github.com/dhkam1102/go_basics_journey)
 - Practicing LeetCode
 
 ### Connect With Me:
