@@ -11,6 +11,7 @@
 - 🧠 Interested in artificial intelligence and machine learning.
 - 🏋️‍♂️ Outside of tech, I stay active by weightlifting and tennis.
 - 🇺🇸🇰🇷🇯🇵 Multilingual speaker, fluent in English and Korean, with some proficiency in Japanese, interested in global tech developments
+- [Check out my resume!!](https://github.com/dhkam1102/resume/blob/main/resume.pdf)
 
 ### GitHub Stats
 <p align="center">
