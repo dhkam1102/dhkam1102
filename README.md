@@ -26,6 +26,7 @@
 <table>
   <tr>
     <th>Python</th>
+    <th>Golang</th>
     <th>Java</th>
     <th>C++</th>
     <th>C</th>
@@ -34,13 +35,15 @@
     <th>CSS</th>
   </tr>
   <tr>
- <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" width="40" height="40" style="margin-right: 20px;"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="40" height="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS" width="40" height="40"/></td>
+
   </tr>
   </tr>
   </tr>
@@ -51,10 +54,16 @@
   <tr>
     <th>MySQL</th>
     <th>Jupyter</th>
+    <th>Flask</th>
+    <th>React</th>
+
   </tr>
   <tr>
     <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="40" height="40"/></td>
+
   </tr>
 </table>
 
@@ -62,9 +71,13 @@
 <table>
   <tr>
     <th>AWS</th>
+    <th>GCP</th>
+
   </tr>
   <tr>
     <td><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/></td>
+    <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></td>
+
   </tr>
 </table>
 
@@ -92,7 +105,7 @@
 
 ### Working on:
 - [Learning Go](https://github.com/dhkam1102/go_basics_journey)
-- Practicing LeetCode
+- [Practicing LeetCode](https://leetcode.com/u/bdkam/)
 
 ### Connect With Me:
 <p align="center">
