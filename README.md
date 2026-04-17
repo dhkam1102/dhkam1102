@@ -5,7 +5,7 @@
 - From Los Angeles, California. B.S. Computer Science, UC Irvine.
 - Interested in backend systems and cloud infrastructure.
 
-[Resume](https://github.com/dhkam1102/resume/blob/main/resume.pdf) · [Portfolio](https://dhkam1102.github.io) · [LinkedIn](https://www.linkedin.com/in/dhkam1102)
+
 
 
 ### 💼 Experience
@@ -22,6 +22,12 @@
 - 🥊 Train boxing to a competitive level — not pro, just enough to step in the ring
 - 🎾 Get genuinely good at tennis or 🧗 rock climbing
 - 🎥 Start a YouTube channel
+
+### 📬 Contact
+
+- 📄 [Resume](https://github.com/dhkam1102/resume/blob/main/resume.pdf)
+- 🌐 [Portfolio](https://dhkam1102.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhkam1102)
 
 ### GitHub Stats
 <p align="center">
