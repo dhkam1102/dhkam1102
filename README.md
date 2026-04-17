@@ -1,25 +1,21 @@
-<h1 align="center">Brian Kam</h1>
+<h1 align="center">👋Hi my name is Brian Kam👋</h1>
 
-<p align="center">Software Engineer · Los Angeles, CA</p>
+### 🪴 About Me
 
-### 🌱 About Me
-
- From Los Angeles, California. B.S. Computer Science, UC Irvine.
-Interested in backend systems and cloud infrastructure.
+- From Los Angeles, California. B.S. Computer Science, UC Irvine.
+- Interested in backend systems and cloud infrastructure.
 
 [Resume](https://github.com/dhkam1102/resume/blob/main/resume.pdf) · [Portfolio](https://dhkam1102.github.io) · [LinkedIn](https://www.linkedin.com/in/dhkam1102)
 
----
 
 ### 💼 Experience
 
-**Software Engineer Intern @ Quantinuum** *(Sep 2025 – Dec 2025)*
+- Software Engineer Intern @ Quantinuum (Sep 2025 – Dec 2025) 
 
-**Software Engineer Intern @ American Express** *(Jun 2025 – Aug 2025)*
+- Software Engineer Intern @ American Express (Jun 2025 – Aug 2025) 
 
-**Software Engineer Intern @ EVEMETA** *(Jul 2024 – Nov 2024)*
+- Software Engineer Intern @ EVEMETA (Jul 2024 – Nov 2024) 
 
----
 
 ### 💭 Sometime Dreams
 
