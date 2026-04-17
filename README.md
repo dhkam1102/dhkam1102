@@ -1,17 +1,31 @@
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+<h1 align="center">Brian Kam</h1>
 
-<h1 align="center">Hi there, I'm Brian 👋</h1>
+<p align="center">Software Engineer · Los Angeles, CA</p>
 
-<h2 align="center">Computer Science @ University of California, Irvine</h2>
+### 🌱 About Me
 
-### About Me:
-- 🎓 Pursuing a Bachelor's in Computer Science at UCI, aiming to graduate in 2025.
-- 🔍 Specializing in information.
-- 🌐 Interested in backend development and cloud technologies.
-- 🏋️‍♂️ Outside of tech, I stay active by weightlifting and tennis.
-- 🇺🇸🇰🇷🇯🇵 Multilingual speaker, fluent in English and Korean, with some proficiency in Japanese, interested in global tech developments
-- [Check out my resume!!](https://github.com/dhkam1102/resume/blob/main/resume.pdf)
+ From Los Angeles, California. B.S. Computer Science, UC Irvine.
+Interested in backend systems and cloud infrastructure.
+
+[Resume](https://github.com/dhkam1102/resume/blob/main/resume.pdf) · [Portfolio](https://dhkam1102.github.io) · [LinkedIn](https://www.linkedin.com/in/dhkam1102)
+
+---
+
+### 💼 Experience
+
+**Software Engineer Intern @ Quantinuum** *(Sep 2025 – Dec 2025)*
+
+**Software Engineer Intern @ American Express** *(Jun 2025 – Aug 2025)*
+
+**Software Engineer Intern @ EVEMETA** *(Jul 2024 – Nov 2024)*
+
+---
+
+### 💭 Sometime Dreams
+
+- 🥊 Train boxing to a competitive level — not pro, just enough to step in the ring
+- 🎾 Get genuinely good at tennis or 🧗 rock climbing
+- 🎥 Start a YouTube channel
 
 ### GitHub Stats
 <p align="center">
