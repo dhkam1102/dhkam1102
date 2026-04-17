@@ -19,19 +19,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhkam1102&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
-### Working on:
-- [Learning Go](https://github.com/dhkam1102/go_basics_journey)
-- [Practicing LeetCode](https://leetcode.com/u/bdkam/)
-
-### Connect With Me:
-<p align="center">
-  <a href="www.linkedin.com/in/brian-kam-297144277">
-    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/dhkam_1102_/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/bdkam/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-  </a>
-</p>
